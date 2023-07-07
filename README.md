@@ -1,0 +1,1 @@
+# MangNet-A-Deep-Learning-Architecture-for-Sunderban-Landcover-classification
