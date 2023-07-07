@@ -2,9 +2,10 @@
 
 **Status:** Conference (Accepted)
 
-**Conference:** 12th International Conference on Image Processing Theory, Tools and Applications (IPTA 2023), IEEE, Paris, France
+### **Conference:** 
+12th International Conference on Image Processing Theory, Tools and Applications (IPTA 2023), IEEE, Paris, France
 
-**Citation:**
+### **Citation:**
 SK Daud Hassan, Sriparna Banerjee, Debanka Pal Sheli Sinha Chaudhuri, Khalifa Djemal and Amir Ali Feiz, "Sriparna Banerjee", 12th International Conference on Image Processing Theory, Tools and Applications IPTA 2023, IEEE, Paris, France (Accepted)
 
 ## Motivation behind Building the MangNet Architecture
