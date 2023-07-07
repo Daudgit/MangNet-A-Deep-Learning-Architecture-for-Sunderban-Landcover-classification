@@ -2,6 +2,11 @@
 
 **Status:** Conference (Accepted)
 
+**Conference:** 12th International Conference on Image Processing Theory, Tools and Applications (IPTA 2023), IEEE, Paris, France
+
+**Citation:**
+SK Daud Hassan, Sriparna Banerjee, Debanka Pal Sheli Sinha Chaudhuri, Khalifa Djemal and Amir Ali Feiz, "Sriparna Banerjee", 12th International Conference on Image Processing Theory, Tools and Applications IPTA 2023, IEEE, Paris, France (Accepted)
+
 ## Motivation behind Building the MangNet Architecture
 The motivation behind building the MangNet architecture stems from the increasing interest in automated classification of land-covers using machine learning and deep learning techniques, particularly in the computer vision field. This application holds real-life significance as it enables the identification and categorization of different types of land-covers from satellite images.
 
@@ -18,7 +23,5 @@ Recognizing the significance of considering a broader range of land-covers in th
 
 In this project, I have delved into a detailed discussion of the MangNet architecture, providing insights into its design and functioning. The results obtained through the implementation of MangNet are presented, along with comparative analyses to showcase its effectiveness in land-cover classification. By focusing on efficient land-cover classification using MangNet, this research work contributes to a more comprehensive understanding of the Sunderban region, considering the diverse ecosystems and wildlife it encompasses.
 
-**Citation:**
-SK Daud Hassan, Sriparna Banerjee, Debanka Pal Sheli Sinha Chaudhuri, Khalifa Djemal and Amir Ali Feiz, "Sriparna Banerjee", 12th International Conference on Image Processing Theory, Tools and Applications IPTA 2023, IEEE, Paris, France (Accepted)
 
 **Abstract—** Automated classification of land-covers from satellite images using machine learning and deep learning approaches have garnered significant attention among researchers in the computer vision field in recent years due to the real-life significance of this application. Among various types of land covers mangroves stand out as a unique ecosystem that plays a crucial role in regulating the climate in coastal areas and providing a habitat for diverse flora and fauna. These characteristics make mangrove vegetation particularly significant. In this work, we present a novel and computationally efficient deep learning architecture called MangNet, designed to effectively classify diverse land covers in the Sunderban region of West Bengal, India. MangNet exploits its multi-scale contextual feature extraction capability to simultaneously classify multiple pixels within a patch, considering the inter-relationship between neighboring pixels, which enhances its performance efficiency. The designed architecture achieved an impressive classification accuracy of 99.64%, surpassing existing state-of-the-art methods. We have used freely accessible dual-polarized Sentinel-1 data from the chosen Region of Interest (RoI) to conduct this study and demonstrated the relevance of intensity and phase values in each polarized channel for classification in the Results section.
